@@ -1,3 +1,1 @@
-my git practise project
-today i learned how to use git
-i made the new branch getting some change
+i want to delete the remaining ones before
